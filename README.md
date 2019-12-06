@@ -8,3 +8,4 @@ Tools and technologies used:
 
 app.py is the main application while backend.py contains the DataBase connectivity code.
 Happy Coding and contributing   :-).
+HI i am atharav.
