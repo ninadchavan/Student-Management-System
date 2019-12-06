@@ -4,6 +4,7 @@ from tkinter import messagebox
 import backend
 import socket
 
+#Gui programming starts here
 splash = Tk()
 splash.title("WELCOME")
 splash.geometry("550x500+650+250")

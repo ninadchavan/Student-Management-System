@@ -7,3 +7,5 @@ Tools and technologies used:
 2. Database: SQLite
 
 app.py is the main application while backend.py contains the DataBase connectivity code.
+Happy Coding and contributing   :-).
+HI i am atharav.
